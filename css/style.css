@@ -140,6 +140,7 @@ header {
 
     .pricing {
         align-items: flex-end;
+        flex-wrap:nowrap;
     }
 
     .gallery, #gallery {
